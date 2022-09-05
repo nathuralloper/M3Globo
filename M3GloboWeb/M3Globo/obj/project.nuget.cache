@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Nxtm84j3KEie6kS9xBlI/amH8xNWTzb+P4OmEv2zrWmzJ9+qXfxJvDJo/qaRfHGkjeiDu1u36DnqJMvcoaiogw==",
+  "dgSpecHash": "nye5H6XisPBy+mbO0fK3zpkQDSNrUXrvmlESZlm5lnYZf+sz1y67RV1eMSm/6GIvucqor9Gzoug3jHCpASakAw==",
   "success": true,
   "projectFilePath": "C:\\PluralSight\\Azure\\M3Globo\\M3GloboWeb\\M3Globo\\M3Globo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gregory\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }
